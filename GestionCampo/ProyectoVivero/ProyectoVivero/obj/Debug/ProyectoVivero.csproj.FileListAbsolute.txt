@@ -1,0 +1,42 @@
+C:\Users\MATEO\Desktop\Programacion3\Proyecto\ProyectoVivero\ProyectoVivero\bin\Debug\ProyectoVivero.exe.config
+C:\Users\MATEO\Desktop\Programacion3\Proyecto\ProyectoVivero\ProyectoVivero\bin\Debug\ProyectoVivero.exe
+C:\Users\MATEO\Desktop\Programacion3\Proyecto\ProyectoVivero\ProyectoVivero\bin\Debug\ProyectoVivero.pdb
+C:\Users\MATEO\Desktop\Programacion3\Proyecto\ProyectoVivero\ProyectoVivero\obj\Debug\ProyectoVivero.csproj.AssemblyReference.cache
+C:\Users\MATEO\Desktop\Programacion3\Proyecto\ProyectoVivero\ProyectoVivero\obj\Debug\ProyectoVivero.csproj.SuggestedBindingRedirects.cache
+C:\Users\MATEO\Desktop\Programacion3\Proyecto\ProyectoVivero\ProyectoVivero\obj\Debug\ProyectoVivero.Form1.resources
+C:\Users\MATEO\Desktop\Programacion3\Proyecto\ProyectoVivero\ProyectoVivero\obj\Debug\ProyectoVivero.Properties.Resources.resources
+C:\Users\MATEO\Desktop\Programacion3\Proyecto\ProyectoVivero\ProyectoVivero\obj\Debug\ProyectoVivero.csproj.GenerateResource.cache
+C:\Users\MATEO\Desktop\Programacion3\Proyecto\ProyectoVivero\ProyectoVivero\obj\Debug\ProyectoVivero.csproj.CoreCompileInputs.cache
+C:\Users\MATEO\Desktop\Programacion3\Proyecto\ProyectoVivero\ProyectoVivero\obj\Debug\ProyectoVivero.exe
+C:\Users\MATEO\Desktop\Programacion3\Proyecto\ProyectoVivero\ProyectoVivero\obj\Debug\ProyectoVivero.pdb
+C:\Users\MATEO\Desktop\Programacion3\Proyecto\ProyectoVivero\ProyectoVivero\obj\Debug\ProyectoVivero.PanelPrincipal.resources
+C:\Users\MATEO\Desktop\Programacion3\Proyecto\ProyectoVivero\ProyectoVivero\obj\Debug\ProyectoVivero.Clientes.resources
+C:\Users\MATEO\Desktop\Programacion3\Proyecto\ProyectoVivero\ProyectoVivero\obj\Debug\ProyectoVivero.Compras.resources
+C:\Users\MATEO\Desktop\Programacion3\Proyecto\ProyectoVivero\ProyectoVivero\obj\Debug\ProyectoVivero.Cosechas.resources
+C:\Users\MATEO\Desktop\Programacion3\Proyecto\ProyectoVivero\ProyectoVivero\obj\Debug\ProyectoVivero.Inventario.resources
+C:\Users\MATEO\Desktop\Programacion3\Proyecto\ProyectoVivero\ProyectoVivero\obj\Debug\ProyectoVivero.Siembras.resources
+C:\Users\MATEO\Desktop\Programacion3\Proyecto\ProyectoVivero\ProyectoVivero\obj\Debug\ProyectoVivero.Trabajadores.resources
+C:\Users\MATEO\Desktop\Programacion3\Proyecto\ProyectoVivero\ProyectoVivero\obj\Debug\ProyectoVivero.Ventas.resources
+C:\Users\MATEO\Desktop\Programacion3\Proyecto\ProyectoVivero\ProyectoVivero\obj\Debug\ProyectoVivero.Informes.resources
+C:\Users\MATEO\Desktop\Programacion3\Proyecto\ProyectoVivero\ProyectoVivero\obj\Debug\ProyectoVivero.Inicio.resources
+C:\Users\MATEO\Desktop\Proyecto v2\ProyectoVivero\ProyectoVivero\obj\Debug\ProyectoVivero.csproj.AssemblyReference.cache
+C:\Users\MATEO\Desktop\Proyecto v2\ProyectoVivero\ProyectoVivero\obj\Debug\ProyectoVivero.csproj.SuggestedBindingRedirects.cache
+C:\Users\MATEO\Desktop\Proyecto v2\ProyectoVivero\ProyectoVivero\obj\Debug\ProyectoVivero.Clientes.resources
+C:\Users\MATEO\Desktop\Proyecto v2\ProyectoVivero\ProyectoVivero\obj\Debug\ProyectoVivero.Compras.resources
+C:\Users\MATEO\Desktop\Proyecto v2\ProyectoVivero\ProyectoVivero\obj\Debug\ProyectoVivero.Cosechas.resources
+C:\Users\MATEO\Desktop\Proyecto v2\ProyectoVivero\ProyectoVivero\obj\Debug\ProyectoVivero.Form1.resources
+C:\Users\MATEO\Desktop\Proyecto v2\ProyectoVivero\ProyectoVivero\obj\Debug\ProyectoVivero.Informes.resources
+C:\Users\MATEO\Desktop\Proyecto v2\ProyectoVivero\ProyectoVivero\obj\Debug\ProyectoVivero.Inicio.resources
+C:\Users\MATEO\Desktop\Proyecto v2\ProyectoVivero\ProyectoVivero\obj\Debug\ProyectoVivero.Inventario.resources
+C:\Users\MATEO\Desktop\Proyecto v2\ProyectoVivero\ProyectoVivero\obj\Debug\ProyectoVivero.PanelPrincipal.resources
+C:\Users\MATEO\Desktop\Proyecto v2\ProyectoVivero\ProyectoVivero\obj\Debug\ProyectoVivero.Properties.Resources.resources
+C:\Users\MATEO\Desktop\Proyecto v2\ProyectoVivero\ProyectoVivero\obj\Debug\ProyectoVivero.Siembras.resources
+C:\Users\MATEO\Desktop\Proyecto v2\ProyectoVivero\ProyectoVivero\obj\Debug\ProyectoVivero.Trabajadores.resources
+C:\Users\MATEO\Desktop\Proyecto v2\ProyectoVivero\ProyectoVivero\obj\Debug\ProyectoVivero.Ventas.resources
+C:\Users\MATEO\Desktop\Proyecto v2\ProyectoVivero\ProyectoVivero\obj\Debug\ProyectoVivero.csproj.GenerateResource.cache
+C:\Users\MATEO\Desktop\Proyecto v2\ProyectoVivero\ProyectoVivero\obj\Debug\ProyectoVivero.csproj.CoreCompileInputs.cache
+C:\Users\MATEO\Desktop\Proyecto v2\ProyectoVivero\ProyectoVivero\obj\Debug\ProyectoVivero.exe
+C:\Users\MATEO\Desktop\Proyecto v2\ProyectoVivero\ProyectoVivero\obj\Debug\ProyectoVivero.pdb
+C:\Users\MATEO\Desktop\Proyecto v2\ProyectoVivero\ProyectoVivero\bin\Debug\ProyectoVivero.exe.config
+C:\Users\MATEO\Desktop\Proyecto v2\ProyectoVivero\ProyectoVivero\bin\Debug\ProyectoVivero.exe
+C:\Users\MATEO\Desktop\Proyecto v2\ProyectoVivero\ProyectoVivero\bin\Debug\ProyectoVivero.pdb
